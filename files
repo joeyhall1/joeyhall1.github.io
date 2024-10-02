@@ -1,4 +1,9 @@
- <a href="files/Problem-statement.pdf">
+<h2>Highlighted projects</h2>
+<div class = "projects">
+    <!-- Problem Statement Assignment -->
+    <section class="project">
+    <a href="files/Problem-statement.pdf">
         <h3>Problem Statement</h3>
     </a>
     <a href="files/Problem-statement.pdf">
+        <img src="images/Problem-statement.png">
